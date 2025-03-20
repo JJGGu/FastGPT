@@ -1,0 +1,13 @@
+HelmChartPath: ''
+RuntimeType: Container
+ServiceType: private
+ArtifactSourceType: DockerCompose
+ServiceBuildRegion: ap-southeast-1
+RepoName: JJGGu/FastGPT
+DockerComposeEnvPath: .env
+RegionId: cn-hangzhou
+CustomParameters: ''
+DockerComposeYamlPath: deploy/docker/docker-compose-pgvector.yml
+Owner: JJGGu
+Branch: main
+Platform: github
