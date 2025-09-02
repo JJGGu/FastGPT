@@ -1,4 +1,5 @@
 HelmChartPath: ''
+SystemDiskSize: 100
 RuntimeType: Container
 ServiceType: private
 ArtifactSourceType: DockerCompose
